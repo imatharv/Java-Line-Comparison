@@ -9,8 +9,8 @@ public class lineComparison
       		double y1;
       		double x2;
       		double y2;
-      	
-		System.out.println("Enter value for x1: ");
+      		
+      		System.out.println("Enter value for x1: ");
       		x1 = scanner.nextDouble();
 
 		System.out.println("Enter value for y1: ");
@@ -45,6 +45,15 @@ public class lineComparison
 	   	else
 	   	{
       			System.out.println("Both the lines are not equal.");
+
+			if (firstLineLength > secondLineLength) 
+			{
+				System.out.println("First line is longer than second one.");
+		        }
+			else
+			{
+				System.out.println("Second line is longer than first one.");
+			}
 		}
 	}
 }
