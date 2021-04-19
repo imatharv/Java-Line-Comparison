@@ -4,7 +4,7 @@
 
 <br />
 
-The repository contains a core java program to calculate the daily as well as total employee wage for one or more companies using encapsulation, inheritance, interface with array list as well as interface with hash map.
+The repository contains a core java program to compare two lines based on their end points using basic core java concepts.
  
 <br />
 
