@@ -14,10 +14,10 @@ The repository contains a core java program to compare two lines based on their 
 
 ### Branching details,
 
-- [Use Case 1](https://github.com/imatharv/Java-Core-LineComparison/tree/use-case-1) Model a line based on a point consisting of (x, y) co-ordinates using the cartesian system, and calculate its length
-- [Use Case 2](https://github.com/imatharv/Java-Core-LineComparison/tree/use-case-2) Check the equility of two lines like are they equel or unequal based on end points
-- [Use Case 3](https://github.com/imatharv/Java-Core-LineComparison/tree/use-case-3) Compare two lines based on their end points, check first line is equal or longer or shorter than the second line
-- [Use Case 4](https://github.com/imatharv/Java-Core-LineComparison/tree/use-case-4) Refactor the code using compareTo as well as equalTo methods
+- [Use Case 1](https://github.com/imatharv/Java-Line-Comparison/tree/use-case-1) Model a line based on a point consisting of (x, y) co-ordinates using the cartesian system, and calculate its length
+- [Use Case 2](https://github.com/imatharv/Java-Line-Comparison/tree/use-case-2) Check the equility of two lines like are they equel or unequal based on end points
+- [Use Case 3](https://github.com/imatharv/Java-Line-Comparison/tree/use-case-3) Compare two lines based on their end points, check first line is equal or longer or shorter than the second line
+- [Use Case 4](https://github.com/imatharv/Java-Line-Comparison/tree/use-case-4) Refactor the code using compareTo as well as equalTo methods
 
 <br />
 
